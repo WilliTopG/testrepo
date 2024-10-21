@@ -18,3 +18,8 @@ for letter in target:
             result += I
             break
         time.sleep(0.05)
+
+
+erik = erik er trash i league
+
+print (erik)
