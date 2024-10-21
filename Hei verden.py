@@ -19,6 +19,21 @@ def generate_hello_world():
                 result += I
                 break
             time.sleep(0.05)
+
+
+    def generate_hello_world():
+    letters = string.ascii_letters
+    target = "Oskar kom deg på stein kasting"
+    result = ""
+
+    for letter in target:
+        while True:
+            I = random.choice(letters)
+            print(result + I)
+            if I == letter:
+                result += I
+                break
+            time.sleep(0.05)
     
     return result
 
