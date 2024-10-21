@@ -40,6 +40,8 @@ def generate_hello_world():
 # Usage
 hello_world_result = generate_hello_world()
         
-        
-        /fill  1 1 1  10 10 10  minecraft:stone
+        erik = erik er trash i fortnite
+print (erik)
+
+
 
