@@ -20,6 +20,8 @@ for letter in target:
         time.sleep(0.05)
 
 
-erik = erik er trash i league
+erik = "erik er trash i league"
 
 print (erik)
+
+# %%
